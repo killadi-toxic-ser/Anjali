@@ -112,7 +112,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "ENIKK JEEVAN IND MWONU BOT CODED BY *TOXIDE SER*https://wa.me/919048329892"
+            "value": "ENIKK JEEVAN IND MWONU BOT CODED BY *TOXIC SER*
 
         },
         "BAN_MESSAGE": {
